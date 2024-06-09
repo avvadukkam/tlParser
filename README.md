@@ -1,4 +1,4 @@
-# Time Log Parser
+# [Time Log Parser](https://deepakavvadukkam.pythonanywhere.com/) 
 * This Python script is designed to parse a time log provided as a text file and calculate the total hours logged. 
 * Each entry in the time log file should follow the format: MM/DD/YY: start_time - end_time activity_description. 
 * The script can be run using the command: python tlparser.py timelog.txt, where timelog.txt is the name of the time log file.
